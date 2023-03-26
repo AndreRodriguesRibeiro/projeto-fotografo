@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Bangers&family=Nunito+Sans:wght@700&family=Yellowtail&display=swap');
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family:Nunito ,sans-serif;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    text-align: center;
+    line-height: 35px;
+    background-color: blue;
+}
+
+nav a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav .menu-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    list-style: none;
+    font-family: Asap , serif;
+    margin-right: 10px;
+}
+
+nav .logo{
+    font-family: yellowtail,sans-serif;
+    font-size: 30px;
+}
+
+header{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(../images/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.space{
+    width: 100vw;
+}
+
+#sobre{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(../images/logocamera.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: #ffffff;
+}
+
+button{
+    height: 35px;
+    width: 150px;
+    background-color: red;
+    border: none;
+    margin-top: 20px;
+}
+
+button a{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: asap,sans-serif;
+}
+#fotos img{
+    width: 100%;
+}
+
+#contatos{
+    background-color: blue;
+    width: 100%;
+}
+
+h4{
+    color: #ffffff;
+}
+
+#contatos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#contatos .phone{
+    display: inline;
+}
+
+#contatos .mail{
+    display: inline;
+}
+
+#contatos a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#contatos span{
+    color: #ffffff;
+}
+

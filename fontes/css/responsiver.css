@@ -1,0 +1,30 @@
+@media(max-width:500px){
+    nav {
+       line-height: 50px;
+       width: 500px;
+       padding-left: 20px;
+    }
+
+    nav .menu-list{
+        width: 200px;
+    }
+
+    header{
+        width:500px;
+        background-position:center ;
+    }
+
+    #sobre{
+        width: 500px;
+        background-position:center ;
+    }
+
+    img{
+        height: 35vh;
+    }
+
+    #contatos{
+        height: 13vh;
+    }
+
+}

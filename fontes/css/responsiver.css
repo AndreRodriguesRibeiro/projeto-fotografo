@@ -62,17 +62,17 @@
 
 @media(max-width:320px){
     nav {
-       line-height: 25px;
+       line-height: 30px;
        width: 320px;
        padding-left: 15px;
     }
 
     nav .menu-list{
-        width: 125px;
+        width: 130px;
     }
 
     header{
-        width:32opx;
+        width:320px;
         background-position:center ;
     }
 
@@ -82,11 +82,11 @@
     }
 
     img{
-        height: 20vh;
+        height: 25vh;
     }
 
     #contatos{
-        height: 5vh;
+        height: 10vh;
     }
 
 }

@@ -31,13 +31,13 @@
 
 @media(max-width:376px){
     nav {
-       line-height: 25px;
+       line-height: 30px;
        width: 376px;
        padding-left: 15px;
     }
 
     nav .menu-list{
-        width: 150px;
+        width: 160px;
     }
 
     header{
@@ -51,18 +51,18 @@
     }
 
     img{
-        height: 25vh;
+        height: 30vh;
     }
 
     #contatos{
-        height: 10vh;
+        height: 13vh;
     }
 
 }
 
 @media(max-width:320px){
     nav {
-       line-height: 30px;
+       line-height: 25px;
        width: 320px;
        padding-left: 15px;
     }
@@ -82,11 +82,11 @@
     }
 
     img{
-        height: 30vh;
+        height: 25vh;
     }
 
     #contatos{
-        height: 13vh;
+        height: 5vh;
     }
 
 }

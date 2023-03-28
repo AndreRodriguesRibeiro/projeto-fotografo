@@ -1,4 +1,4 @@
-@media(max-width:376px){
+@media(max-width:500px){
     nav {
        line-height: 50px;
        width: 500px;
@@ -25,6 +25,68 @@
 
     #contatos{
         height: 13vh;
+    }
+
+}
+
+@media(max-width:376px){
+    nav {
+       line-height: 25px;
+       width: 376px;
+       padding-left: 15px;
+    }
+
+    nav .menu-list{
+        width: 150px;
+    }
+
+    header{
+        width:376px;
+        background-position:center ;
+    }
+
+    #sobre{
+        width: 376px;
+        background-position:center ;
+    }
+
+    img{
+        height: 25vh;
+    }
+
+    #contatos{
+        height: 10vh;
+    }
+
+}
+
+@media(max-width:320px){
+    nav {
+       line-height: 25px;
+       width: 320px;
+       padding-left: 15px;
+    }
+
+    nav .menu-list{
+        width: 125px;
+    }
+
+    header{
+        width:32opx;
+        background-position:center ;
+    }
+
+    #sobre{
+        width: 320px;
+        background-position:center ;
+    }
+
+    img{
+        height: 20vh;
+    }
+
+    #contatos{
+        height: 5vh;
     }
 
 }

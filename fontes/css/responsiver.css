@@ -12,11 +12,13 @@
     header{
         width:500px;
         background-position:center ;
+        background-size:cover;
     }
 
     #sobre{
         width: 500px;
         background-position:center ;
+        background-size:cover;
     }
 
     img{
@@ -43,11 +45,13 @@
     header{
         width:376px;
         background-position:center ;
+        background-size:cover;
     }
 
     #sobre{
         width: 376px;
         background-position:center ;
+        background-size:cover;
     }
 
     img{
@@ -74,11 +78,13 @@
     header{
         width:320px;
         background-position:center ;
+        background-size:cover;
     }
 
     #sobre{
         width: 320px;
         background-position:center ;
+        background-size:cover;
     }
 
     img{

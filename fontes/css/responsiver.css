@@ -51,7 +51,7 @@
     }
 
     img{
-        height: 30vh;
+        height: 35vh;
     }
 
     #contatos{
@@ -82,11 +82,11 @@
     }
 
     img{
-        height: 25vh;
+        height: 30vh;
     }
 
     #contatos{
-        height: 5vh;
+        height: 10vh;
     }
 
 }
